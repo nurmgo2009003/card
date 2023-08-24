@@ -1,0 +1,33 @@
+main{
+    width: 870px;
+    height: 400px;
+    background-color: rgb(173, 212, 244);
+    display: flex;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+img{
+    position: relative;
+    left: 50px;
+    top: 70px;
+    width: 280px;
+    height: 250px;
+}
+.content{
+    position: relative;
+    left: 100px;
+    top: 50px;
+    font-size: 25px;
+}
+.footer{
+    width: 870px;
+    height: 10px;
+    background-color: blueviolet;
+    display: flex;
+    margin: 0 auto;
+}
+.mother{
+    width: 1500px;
+    height: 900px;
+    background-color: wheat;
+}
